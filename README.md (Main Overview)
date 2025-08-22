@@ -1,0 +1,24 @@
+# UiPath Mini Projects
+
+This repository contains small UiPath projects created for **learning and practice**.  
+Each project demonstrates automation of a real-world process using UiPath.
+
+## 📂 Projects Included
+1. **Invoice Automation**
+   - Extracts data from invoices (PDF/Excel) and stores it in structured format.
+   - Demonstrates Document Understanding, Data Extraction, and Excel Automation.
+
+2. **Web Scraping**
+   - Scrapes product details from a website.
+   - Demonstrates Data Scraping Wizard, handling dynamic selectors, and Excel output.
+
+## 🚀 Tools Used
+- UiPath Studio
+- UiPath Orchestrator (for scheduling/monitoring)
+- Excel/CSV for data storage
+
+## 📌 Purpose
+These projects are created for **hands-on practice** and to showcase automation capabilities in UiPath.  
+They use **sample/dummy data** for demonstration and are not client-specific.
+
+---
