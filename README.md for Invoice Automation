@@ -1,0 +1,23 @@
+# Invoice Automation (UiPath)
+
+## 📌 Overview
+This project automates **invoice data extraction** using UiPath.  
+It reads invoice files, extracts details (Invoice No, Date, Vendor, Amount), and stores them in Excel.
+
+## ⚙️ Workflow Steps
+1. Load invoice PDFs from a folder.
+2. Extract fields using Document Understanding + Regex.
+3. Validate extracted data.
+4. Store results in Excel and generate summary.
+
+## 📊 Example Output
+| Invoice No | Date       | Vendor       | Amount |
+|------------|------------|--------------|--------|
+| INV001     | 01-07-2024 | ABC Pvt Ltd  | 5000   |
+| INV002     | 05-07-2024 | XYZ Traders  | 7500   |
+
+## 🚀 Key Learning
+- Document Understanding
+- Exception handling
+- Excel data writing
+
