@@ -1,0 +1,22 @@
+# Web Scraping Automation (UiPath)
+
+## 📌 Overview
+This project demonstrates **web data extraction** using UiPath.  
+It scrapes product details from a website and stores them in Excel.
+
+## ⚙️ Workflow Steps
+1. Open target website.
+2. Scrape product listings (name, price, URL).
+3. Save extracted data to Excel.
+4. Generate daily report.
+
+## 📊 Example Output
+| Product Name   | Price  | URL                         |
+|----------------|--------|-----------------------------|
+| Laptop Model A | 55,000 | https://example.com/product |
+| Laptop Model B | 62,000 | https://example.com/product |
+
+## 🚀 Key Learning
+- Data Scraping Wizard
+- Handling dynamic selectors
+- Excel output automation
